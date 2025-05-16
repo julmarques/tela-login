@@ -2,7 +2,7 @@
 
 @media screen and (min-width: 768px) {
     main h1 {
-        font-size: 2em;
+        font-size: 2.2em;
     }
     
     main p {
@@ -34,7 +34,7 @@
 
 @media screen and (min-width: 992px) {
     main h1 {
-        font-size: 2em;
+        font-size: 2.2em;
     }
 
     main p {
