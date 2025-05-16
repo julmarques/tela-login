@@ -11,6 +11,7 @@
     
     section.login {
         width: 90vw;
+        height: 450px;
     }
 
     .imagem {
@@ -24,7 +25,7 @@
         float: right;
         width: 60%;
         height: 300px;
-        margin-top: 110px;
+        margin-top: 70px;
     }
 
     .campo i {
@@ -43,6 +44,7 @@
     
     section.login {
         width: 950px;
+        height: 550px;
     }
 
     .imagem {
