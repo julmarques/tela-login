@@ -57,6 +57,7 @@
     .formulario {
         float: left;
         width: 50%;
+        margin: 120px 0;
     }
 
     .campo i {
